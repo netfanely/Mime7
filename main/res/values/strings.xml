@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mime7 - Frases</string>
+    <string name="splash_cargando">Iniciando...</string>
+    <string name="main_titulo">Frases Aleatorias</string>
+    <string name="main_cambiar_frase">Siguiente</string>
+    <string name="main_comenzar">COMENZAR</string>
+</resources>
